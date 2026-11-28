@@ -1,0 +1,32 @@
+#homeHeader {
+    background-color: tomato;
+    width: 100%;
+    height: auto;
+}
+
+
+#myNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+.logo {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    
+}
